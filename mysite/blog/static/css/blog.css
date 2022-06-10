@@ -2,6 +2,7 @@ body {
     margin:0;
     padding:0;
     font-family:helvetica, sans-serif; 
+	background: #8fdae2;
 }
 
 a { 
@@ -11,13 +12,16 @@ a {
 
 h1 { 
     font-weight:normal;
-    border-bottom:1px solid #bbb;
+    border-bottom:1px solid #50b72c;
     padding:0 0 10px 0;
 }
 
 h2 {
     font-weight:normal;
     margin:30px 0 0;
+}
+h2 a{
+	color: #cc41cc;
 }
 
 #content { 
@@ -35,7 +39,7 @@ h2 {
 }
 
 p.date { 
-    color:#ccc;
+    color: #e75656;
     font-family: georgia, serif;
     font-size: 12px;
     font-style: italic; 
